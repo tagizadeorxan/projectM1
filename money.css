@@ -1,0 +1,150 @@
+.ALmoney {
+  position: absolute;
+  width: 96px;
+  height: 120px;
+  left: 556px;
+  top: 120.26px;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 123.4%;
+  /* or 20px */
+
+  color: #000000;
+  margin: -15;
+}
+
+h3 {
+  margin: 0;
+}
+.moneyLittle {
+  font-weight: normal;
+  color: grey;
+}
+.CKmoney {
+  position: absolute;
+  width: 96px;
+  height: 120px;
+  left: 556px;
+  top: 264.1px;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 123.4%;
+  /* or 20px */
+
+  color: #000000;
+  margin: 0;
+}
+
+.TCmoney {
+  position: absolute;
+  width: 96px;
+  height: 120px;
+  left: 556px;
+  top: 408.12px;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 123.4%;
+  /* or 20px */
+
+  color: #000000;
+  margin: 0;
+}
+
+.FRmoney {
+  position: absolute;
+  width: 96px;
+  height: 120px;
+  left: 556px;
+  top: 552.22px;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 123.4%;
+  /* or 20px */
+
+  color: #000000;
+  margin: 0;
+}
+
+.KBmoney {
+  position: absolute;
+  width: 96px;
+  height: 120px;
+  left: 1132px;
+  top: 120px;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 123.4%;
+  /* or 20px */
+
+  color: #000000;
+  margin: 0;
+}
+
+.KLmoney {
+  position: absolute;
+  width: 96px;
+  height: 120px;
+  left: 1132px;
+  top: 264.36px;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 123.4%;
+  /* or 20px */
+
+  color: #000000;
+  margin: 0;
+}
+
+.CQmoney {
+  position: absolute;
+  width: 96px;
+  height: 120px;
+  left: 1132px;
+  top: 408.37px;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 123.4%;
+  /* or 20px */
+
+  color: #000000;
+  margin: 0;
+}
+
+.Kmoney {
+  position: absolute;
+  width: 96px;
+  height: 120px;
+  left: 1132px;
+  top: 552px;
+
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 123.4%;
+  /* or 20px */
+
+  color: #000000;
+  margin: 0;
+}

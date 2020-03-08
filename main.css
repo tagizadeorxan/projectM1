@@ -1,0 +1,153 @@
+.header {
+  position: absolute;
+  width: 1069px;
+  height: 71px;
+  left: 124px;
+  top: 39px;
+}
+h1 {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 43px;
+  line-height: 50px;
+  color: #000000;
+  text-align: center;
+}
+
+.AL {
+  position: absolute;
+  width: 172px;
+  height: 172px;
+  left: 102px;
+  top: 89px;
+  background: url(Аверсы/аверсЛинкольн.png);
+  background-size: 100%;
+}
+.CK {
+  position: absolute;
+  width: 172px;
+  height: 172px;
+  left: 102px;
+  top: 233px;
+  background: url(Аверсы/аверсКеннеди.png);
+  background-size: 100%;
+}
+
+.TC {
+  position: absolute;
+  width: 173px;
+  height: 173px;
+  left: 101px;
+  top: 378px;
+  background: url(Аверсы/аверсДжефферсон.png);
+  background-size: 100%;
+}
+
+.FR {
+  position: absolute;
+  width: 174px;
+  height: 174px;
+  left: 102px;
+  top: 520px;
+  background: url(Аверсы/аверсРузвельт.png);
+  background-size: 100%;
+}
+
+.KB {
+  position: absolute;
+  width: 169px;
+  height: 169px;
+  left: 679px;
+  top: 92px;
+  background: url(Аверсы/аверсБобр.png);
+  background-size: 100%;
+}
+
+.KL {
+  position: absolute;
+  width: 165px;
+  height: 165px;
+  left: 680px;
+  top: 237px;
+  background: url(Аверсы/аверсКлен.png);
+  background-size: 100%;
+}
+
+.CQ {
+  position: absolute;
+  width: 166px;
+  height: 166px;
+  left: 680px;
+  top: 380px;
+  background-size: 100%;
+}
+.K {
+  position: absolute;
+  width: 165px;
+  height: 165px;
+  left: 680px;
+  top: 525px;
+  background: url(Аверсы/аверсЛось.png);
+  background-size: 100%;
+}
+
+.discount {
+  position: absolute;
+  left: 65.22%;
+  right: 0%;
+  top: 0%;
+  bottom: 63.36%;
+  border-radius: 50%;
+  background: #833ae0;
+}
+.action {
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.percent {
+  position: absolute;
+  width: 15px;
+  height: 15px;
+  left: 15px;
+  top: 22px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 15px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.head {
+  position: absolute;
+  width: 456px;
+  height: 672px;
+  left: 628px;
+  top: 24px;
+  background: rgba(196, 196, 196, 0.5);
+  border: 1px solid black;
+}
+
+.inside {
+  position: absolute;
+  left: 5%;
+  right: 5%;
+  top: 0%;
+  bottom: 0%;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+
+  font-size: 15px;
+
+  text-align: start;
+  color: #000000;
+}
+
+RECT {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+}

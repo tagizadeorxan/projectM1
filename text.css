@@ -1,0 +1,123 @@
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  margin-top: 0;
+
+  color: #833ae0;
+}
+
+.ALtext {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  position: absolute;
+  font-size: 70%;
+  width: 224.39px;
+  height: 120px;
+  left: 292px;
+  top: 120.26px;
+}
+.CKtext {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  position: absolute;
+  font-size: 70%;
+  position: absolute;
+  width: 221.52px;
+  height: 120px;
+  left: 292px;
+  top: 264.1px;
+}
+
+.TCtext {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  position: absolute;
+  font-size: 70%;
+  position: absolute;
+  width: 221.52px;
+  height: 120px;
+  left: 292px;
+  top: 408.12px;
+}
+
+.FRtext {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  position: absolute;
+  font-size: 70%;
+  position: absolute;
+  width: 221.52px;
+  height: 120px;
+  left: 292px;
+  top: 552.22px;
+}
+
+.KBtext {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  position: absolute;
+  font-size: 70%;
+  position: absolute;
+  width: 221.52px;
+  height: 120px;
+  left: 868px;
+  top: 120px;
+}
+
+.KLtext {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  position: absolute;
+  font-size: 70%;
+  position: absolute;
+  width: 244.44px;
+  height: 120px;
+  left: 868px;
+  top: 264.36px;
+}
+
+.CQtext {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  position: absolute;
+  font-size: 70%;
+  position: absolute;
+  width: 221.55px;
+  height: 119.63px;
+  left: 868px;
+  top: 408.37px;
+}
+
+.Ktext {
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  position: absolute;
+  font-size: 70%;
+  position: absolute;
+  width: 286px;
+  height: 120px;
+  left: 868px;
+  top: 552px;
+}
+
+.aVerse {
+  position: absolute;
+  width: 463px;
+  height: 463px;
+  left: 164px;
+  top: -54px;
+}
+
+.reVerse {
+  position: absolute;
+  width: 458px;
+  height: 458px;
+  left: 167px;
+  top: 293px;
+}
+
+tr:nth-child(odd) {
+  background: rgba(255, 255, 255, 0.9);
+}
